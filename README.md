@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a voice-controlled autonomous robot that uses _ESP32_ and _Google Alexa. The robot can navigate via **Google Maps, avoid obstacles using **ultrasonic sensors, and handle objects with a \*\*servo mechanism_. It is designed for tasks such as home automation, industrial applications, autonomous delivery, and surveillance.
+This project is a voice-controlled autonomous robot that uses _ESP32_ and _Alexa. The robot can navigate via Google Maps, avoid obstacles using ultrasonic sensors, and handle objects with a servo mechanism_. It is designed for tasks such as home automation, industrial applications, autonomous delivery, and surveillance.
 
 ## Features
 
