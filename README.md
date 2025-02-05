@@ -15,7 +15,7 @@ This project is a voice-controlled autonomous robot that uses _ESP32_ and _Alexa
 ## Technologies Used
 
 - _Microcontroller:_ ESP32/Arduino
-- _Voice Recognition:_ Integrated with _Google Alexa_
+- _Voice Recognition:_ Integrated with _Alexa_
 - _Navigation:_ Utilizes _Google Maps API_
 - _Sensors:_ _Ultrasonic sensors_ for obstacle avoidance
 - _Camera Module:_ For path identification and real-time navigation
